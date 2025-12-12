@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/model/Transaction.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/dal/UserDAO.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/dal/TransactionDAO.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/utils/Validate.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/home.jsp</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/controller/TransferServlet.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/assets/css/login.css</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/transfer.jsp</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/assets/css/withdraw.css</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/filter/UserFilter.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/controller/LoginServlet.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/controller/WithdrawServlet.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/controller/HomeServlet.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/controller/DepositServlet.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/login.jsp</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/assets/js/bootstrap.bundle.min.js</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/controller/ServiceServlet.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/withdraw.jsp</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/assets/css/transfer.css</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/dal/DBContext.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/assets/css/bootstrap.min.css</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/WEB-INF/web.xml</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/model/User.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/src/java/controller/LogoutServlet.java</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/assets/css/deposit.css</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/deposit.jsp</file>
+            <file>file:/G:/WorkSapce/MiniWallet/MiniWallet/web/assets/css/home.css</file>
+        </group>
+    </open-files>
+</project-private>
