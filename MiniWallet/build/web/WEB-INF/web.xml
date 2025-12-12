@@ -12,7 +12,6 @@
         <url-pattern>/deposit</url-pattern>
         <url-pattern>/withdraw</url-pattern>
         <url-pattern>/transfer</url-pattern>
-        <url-pattern>/home</url-pattern>
     </filter-mapping>
     <servlet>
         <servlet-name>LoginServlet</servlet-name>

@@ -19,7 +19,7 @@
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
             <div class="container">
-                <a class="navbar-brand" href="#"><i class="fas fa-university me-2"></i>MyBank</a>
+                <a class="navbar-brand" href="#"><i class="fas fa-university me-2"></i>Quản lí chi tiêu</a>
                 <div class="d-flex">
                     <span class="navbar-text text-white me-3">
                         Xin chào, <strong>${user.fullName}</strong>
@@ -48,7 +48,7 @@
                                 <div class="fw-bold text-monospace">${user.accountNumber}</div>
                             </div>
                             <div class="mb-3">
-                                <label class="small text-muted">Số dư hiện tại</label>
+                                <label class="small text-muted">Số tiền hiện tại</label>
                                 <div class="balance-text">
                                     <fmt:formatNumber value="${user.balance}" type="currency" currencySymbol="₫"/>
                                 </div>

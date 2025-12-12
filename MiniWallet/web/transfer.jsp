@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="assets/css/main.css"/>
         <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
         <link rel="stylesheet" href="assets/css/transfer.css"/>
-        <title>JSP Page</title>
+        <title>Chuyển tiền</title>
     </head>
     <body>
         <nav class="navbar navbar-dark bg-primary mb-4">
@@ -79,7 +79,7 @@
                                     <div class="input-group">
                                         <span class="input-group-text bg-light"><i class="fas fa-pen"></i></span>
                                         <input type="text" class="form-control" id="msg" name="message" 
-                                               placeholder="Ví dụ: Chuyen tien an trua...">
+                                               placeholder="Ví dụ: Chuyển tiền ăn trưa...">
                                     </div>
                                 </div>
 
