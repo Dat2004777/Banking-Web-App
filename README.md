@@ -29,7 +29,7 @@ To ensure data integrity, the system includes:
 
 #
 
-# Ứng dụng Web Ngân hàng Đơn giản
+# Ứng dụng Web Ngân Hàng Đơn giản
 
 Một dự án web nhỏ dùng để quản lý việc nạp tiền, rút tiền và chuyển khoản, được xây dựng để thực hành các kỹ năng lập trình của mình.
 
