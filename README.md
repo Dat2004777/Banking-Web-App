@@ -13,7 +13,7 @@ This is a lightweight banking simulation project. I developed this application t
 ## 🛠 Technologies Used
 * **Backend:** Java
 * **Database:** SQL Server
-* **Frontend:** HTML5, CSS3
+* **Frontend:** HTML5, CSS3, Bootstrap5
 
 ## 💡 What I Learned
 * Implementing transaction logic and ensuring data consistency.
@@ -44,7 +44,7 @@ Một dự án web nhỏ dùng để quản lý việc nạp tiền, rút tiền
 ## 🛠 Công nghệ sử dụng
 * **Backend:** Java
 * **Cơ sở dữ liệu:** SQL Server
-* **Frontend:** HTML5, CSS3
+* **Frontend:** HTML5, CSS3, Bootstrap5
 
 ## 💡 Bài học kinh nghiệm
 * Cách triển khai logic giao dịch và đảm bảo tính thống nhất của dữ liệu.
